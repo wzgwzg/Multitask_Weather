@@ -16,6 +16,11 @@ Dataset
 ------
 The pretrained model and raw data used in our paper are available at [here.](https://pan.baidu.com/s/1pMDE2uv)
 
+
+<br>
+
+`Please refer to our paper for more details.`
+
 Citation:
 --------
 @inproceedings{DBLP:conf/mm/LiWL17, <br>
