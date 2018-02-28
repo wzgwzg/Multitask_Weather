@@ -7,9 +7,10 @@ tensorflow 1.4.0
 
 Usage:
 -----
-1. cd to the root path
-2. change the mode in run.py (train, test and visualize)
-3. python File/run.py
+1. use generate_tfrecord.py to construct tfrecord files for tensorflow
+2. cd to the root path
+3. change the mode in run.py (train, test and visualize)
+4. python File/run.py
 
 Dataset
 ------
