@@ -23,12 +23,12 @@ The pretrained model and raw data used in our paper are available at [Baidu netw
 
 Citation:
 --------
-
-`@inproceedings{DBLP:conf/mm/LiWL17, <br>
->>  author    = {Xuelong Li and Zhigang Wang and Xiaoqiang Lu}, <br>
->>  title     = {A Multi-Task Framework for Weather Recognition}, <br>
->>  booktitle = {Proceedings of the 2017 {ACM} on Multimedia Conference, {MM} 2017, Mountain View, CA, USA, October 23-27, 2017}, <br>
->>  pages     = {1318--1326}, <br>
->>  year      = {2017} <br>
-
-}`
+```
+@inproceedings{DBLP:conf/mm/LiWL17, 
+    author   = {Xuelong Li and Zhigang Wang and Xiaoqiang Lu}, 
+    title     = {A Multi-Task Framework for Weather Recognition},
+    booktitle = {Proceedings of the 2017 {ACM} on Multimedia Conference, {MM} 2017, Mountain View, CA, USA, October 23-27, 2017},
+    pages     = {1318--1326},
+    year      = {2017}
+}
+```
