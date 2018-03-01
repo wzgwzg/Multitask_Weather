@@ -14,7 +14,7 @@ Usage:
 
 Dataset
 ------
-The pretrained model and raw data used in our paper are available at [here.](https://pan.baidu.com/s/1pMDE2uv)
+The pretrained model and raw data used in our paper are available at [Baidu network disk](https://pan.baidu.com/s/1pMDE2uv) or [MEGA network disk.](https://mega.nz/#F!I7hWmLQQ!iq3XgDR3C1PkX7BmDvfPXw)
 
 
 <br>
@@ -23,10 +23,12 @@ The pretrained model and raw data used in our paper are available at [here.](htt
 
 Citation:
 --------
-@inproceedings{DBLP:conf/mm/LiWL17, <br>
-  author    = {Xuelong Li and Zhigang Wang and Xiaoqiang Lu}, <br>
-  title     = {A Multi-Task Framework for Weather Recognition}, <br>
-  booktitle = {Proceedings of the 2017 {ACM} on Multimedia Conference, {MM} 2017, Mountain View, CA, USA, October 23-27, 2017}, <br>
-  pages     = {1318--1326}, <br>
-  year      = {2017} <br>
-}
+
+`@inproceedings{DBLP:conf/mm/LiWL17, <br>
+>>  author    = {Xuelong Li and Zhigang Wang and Xiaoqiang Lu}, <br>
+>>  title     = {A Multi-Task Framework for Weather Recognition}, <br>
+>>  booktitle = {Proceedings of the 2017 {ACM} on Multimedia Conference, {MM} 2017, Mountain View, CA, USA, October 23-27, 2017}, <br>
+>>  pages     = {1318--1326}, <br>
+>>  year      = {2017} <br>
+
+}`
